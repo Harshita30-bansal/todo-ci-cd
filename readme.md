@@ -23,12 +23,12 @@ The Docker image built by Jenkins is available here:
 5. Push image to Docker Hub  
 
 ## 📁 Repository Structure
-app.py
-test_app.py
-requirements.txt
-Dockerfile
-Jenkinsfile
-README.md
+-app.py
+-test_app.py
+-requirements.txt
+-Dockerfile
+-Jenkinsfile
+-README.md
 
 
 ## 👩‍💻 Run the container
